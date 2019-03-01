@@ -1,0 +1,19 @@
+nav {
+    margin-bottom: 20px;
+}
+
+#expressionInput, #defaultExpressionButton {
+    margin-right: 5px;
+}
+
+#clear {
+    position: relative;
+    left: -45px;
+}
+
+div#viz {
+    position: relative;
+    align-items: center;
+    border: 1px solid black;
+    margin: 20px;
+}
